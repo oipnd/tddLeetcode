@@ -5,10 +5,10 @@ package common;
  */
 
 /**
+ * @author yyy
  * @title: Node
  * @projectName tddLeetocde
  * @description: TODO
- * @author yyy
  * @date 2019/5/1012:05
  */
 public class Node<T> {
@@ -17,9 +17,10 @@ public class Node<T> {
 
     /**
      * 构造方法
-     * @Author lanoipd
+     *
      * @param data
      * @return
+     * @Author lanoipd
      * @Date 2019/5/10 12:05
      */
     public Node(T data) {

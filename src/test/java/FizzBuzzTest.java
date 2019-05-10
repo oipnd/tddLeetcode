@@ -9,7 +9,6 @@ import static org.assertj.core.api.Java6Assertions.assertThat;
  * @Author yyy
  * @Date 2019/5/8 16:18
  * @Version 1.0-
- *
  **/
 public class FizzBuzzTest {
     @Test
